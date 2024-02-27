@@ -1,0 +1,69 @@
+body
+{
+    margin: 0;
+}
+
+p
+{
+    font-size: 1em;
+}
+
+h1
+{
+    font-size: 2em;
+
+}
+
+h2
+{
+    font-size: 1.5em;
+
+}
+
+h3
+{
+    font-size: 1.25em;
+
+}
+
+h4
+{
+    font-size: 1.25em;
+
+}
+
+
+.layoutbox
+{
+    background-color: #f2f2f2;
+    padding: 1.5rem;
+    border-radius: 2rem;
+    width: fit-content;
+    max-width: 70%;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: grid;
+}
+
+.a1
+{
+    margin: 5%;
+}
+
+.hero
+{
+    width: 100%;
+    height: 40rem;
+    display: block;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+}
+.gridcontainer
+{
+    display: flex;
+}
